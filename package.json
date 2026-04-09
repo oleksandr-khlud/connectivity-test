@@ -1,6 +1,6 @@
 {                                                         
     "name": "agent-utils",                     
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Utility scripts for agent workflows",
     "scripts": {        
       "postinstall": "chmod +x ./bin/setup && ./bin/setup 2>/dev/null || true"   
